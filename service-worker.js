@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-curved-carousel/precache-manifest.62e72f5d2b685bf8da5a39a23431d709.js"
+  "/react-curved-carousel/precache-manifest.2511cca804e28e5d9528e551abadd111.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00472c587c3df5ad8639828461abdd62",
+    "revision": "92b03a08c7c61931d7c0e21657d2a9e9",
     "url": "/react-curved-carousel/index.html"
   },
   {
-    "revision": "0ab44a8edacc23ea7a72",
-    "url": "/react-curved-carousel/static/css/main.124ade03.chunk.css"
+    "revision": "783b02e78dffeba84560",
+    "url": "/react-curved-carousel/static/css/main.2e2adef1.chunk.css"
   },
   {
     "revision": "bd3e2db626aeda8c0780",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-curved-carousel/static/js/2.086a33a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ab44a8edacc23ea7a72",
+    "revision": "783b02e78dffeba84560",
     "url": "/react-curved-carousel/static/js/main.6e648af8.chunk.js"
   },
   {
