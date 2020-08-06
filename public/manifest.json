@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Curved Carousel",
+  "name": "A carousel with curvature",
   "icons": [
     {
       "src": "favicon.ico",
